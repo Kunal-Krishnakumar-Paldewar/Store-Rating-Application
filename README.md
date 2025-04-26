@@ -128,6 +128,6 @@ Specify clearly here if needed (MIT, etc.)
 
 ---
 
-Made with ❤️ by [Manish](https://github.com/manish-87)
+Made with ❤️ by [Kunal](https://github.com/Kunal-Krishnakumar-Paldewar/Store-Rating-Application)
 ```
 
